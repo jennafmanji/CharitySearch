@@ -1,0 +1,43 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  background-color: lightskyblue;
+}
+
+input[type=text] {
+  width: 130px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+.charitysearch {
+  height: 200px;
+  width: auto;
+}
+
+.active-pink-4 input[type=text]:focus:not([readonly]) {
+  border: 1px solid #f48fb1;
+  box-shadow: 0 0 0 1px #f48fb1;
+  }
+
+  .active-pink-3 input[type=text] {
+    border: 1px solid #f48fb1;
+    box-shadow: 0 0 0 1px #f48fb1;
+    }
+    .active-cyan-4 input[type=text]:focus:not([readonly]) {
+      border: 1px solid #4dd0e1;
+      box-shadow: 0 0 0 1px #4dd0e1;
+      }
+      .active-cyan-3 input[type=text] {
+      border: 1px solid #4dd0e1;
+      box-shadow: 0 0 0 1px #4dd0e1;
+      }
+
+
+
+
+/* When the input field gets focus, change its width to 100% */
